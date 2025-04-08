@@ -17,7 +17,7 @@
 
 - **State Management:** Redux-Saga  
 - **Database:** Firebase  
-- **Frontend:** React Native (assumed based on Redux-Saga usage—can be updated if different)
+- **Frontend:** React Native
 
 ## What I Learned
 
