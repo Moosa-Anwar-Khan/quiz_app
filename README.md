@@ -1,4 +1,4 @@
-**Quiy App** is a full-featured quiz application designed with two distinct modules — one for students and one for teachers. It enables teachers to effortlessly create quizzes and track student performance, while students can securely log in and attempt quizzes using unique identifiers.
+**Quiz App** is a full-featured quiz application designed with two distinct modules — one for students and one for teachers. It enables teachers to effortlessly create quizzes and track student performance, while students can securely log in and attempt quizzes using unique identifiers.
 
 ## Features
 
